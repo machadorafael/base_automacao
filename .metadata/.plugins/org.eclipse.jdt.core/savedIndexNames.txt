@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\rafael.machado\Desktop\projeto-inicial-automacao\.metadata\.plugins\org.eclipse.jdt.core
+1648747251.index
